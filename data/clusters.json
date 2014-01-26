@@ -1,0 +1,1133 @@
+[
+  {
+    "cluster_id": 1,
+    "topic": "politics",
+    "name": "Monti government",
+    "words": [
+      {
+        "name": "monti",
+        "weight": 0.151548065398
+      },
+      {
+        "name": "governo",
+        "weight": 0.026267411807
+      },
+      {
+        "name": "berlusconi",
+        "weight": 0.0105258003721
+      },
+      {
+        "name": "crescita",
+        "weight": 0.00983398449283
+      },
+      {
+        "name": "ue",
+        "weight": 0.00827629145343
+      },
+      {
+        "name": "tasse",
+        "weight": 0.0075096738656
+      },
+      {
+        "name": "bis",
+        "weight": 0.00724741801257
+      },
+      {
+        "name": "merkel",
+        "weight": 0.00722426763989
+      },
+      {
+        "name": "premier",
+        "weight": 0.00702805972925
+      },
+      {
+        "name": "napolitano",
+        "weight": 0.00676699439259
+      },
+      {
+        "name": "partiti",
+        "weight": 0.0062182211908
+      },
+      {
+        "name": "vertice",
+        "weight": 0.00621784571745
+      },
+      {
+        "name": "agenda",
+        "weight": 0.00536018020024
+      },
+      {
+        "name": "casini",
+        "weight": 0.00465213675458
+      },
+      {
+        "name": "solo",
+        "weight": 0.00451834476645
+      },
+      {
+        "name": "politica",
+        "weight": 0.00436286868275
+      },
+      {
+        "name": "2013",
+        "weight": 0.00421042446061
+      },
+      {
+        "name": "alfano",
+        "weight": 0.00417472392658
+      },
+      {
+        "name": "mario",
+        "weight": 0.00410656046784
+      },
+      {
+        "name": "hollande",
+        "weight": 0.00390648477915
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "sport",
+    "name": "European Cup",
+    "words": [
+      {
+        "name": "italia",
+        "weight": 0.167522309227
+      },
+      {
+        "name": "coppa",
+        "weight": 0.0102079692699
+      },
+      {
+        "name": "spagna",
+        "weight": 0.00855456876289
+      },
+      {
+        "name": "ue",
+        "weight": 0.00651566335967
+      },
+      {
+        "name": "tutta",
+        "weight": 0.00578694653028
+      },
+      {
+        "name": "germania",
+        "weight": 0.00557550625472
+      },
+      {
+        "name": "italiani",
+        "weight": 0.00473466278047
+      },
+      {
+        "name": "europa",
+        "weight": 0.0047233463969
+      },
+      {
+        "name": "giro",
+        "weight": 0.00430575802244
+      },
+      {
+        "name": "prandelli",
+        "weight": 0.00418530851073
+      },
+      {
+        "name": "politica",
+        "weight": 0.00392484253971
+      },
+      {
+        "name": "francia",
+        "weight": 0.00386692885137
+      },
+      {
+        "name": "pil",
+        "weight": 0.00356154635655
+      },
+      {
+        "name": "fiat",
+        "weight": 0.00355364859384
+      },
+      {
+        "name": "ocse",
+        "weight": 0.00290242289175
+      },
+      {
+        "name": "finale",
+        "weight": 0.00283513484236
+      },
+      {
+        "name": "unità",
+        "weight": 0.00283247689733
+      },
+      {
+        "name": "recessione",
+        "weight": 0.00271184704421
+      },
+      {
+        "name": "2012",
+        "weight": 0.00269920959557
+      },
+      {
+        "name": "europei",
+        "weight": 0.00264537415153
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "politics",
+    "name": "Lega Nord",
+    "words": [
+      {
+        "name": "lega",
+        "weight": 0.104435572765
+      },
+      {
+        "name": "maroni",
+        "weight": 0.0467908675871
+      },
+      {
+        "name": "bossi",
+        "weight": 0.0458065474903
+      },
+      {
+        "name": "nord",
+        "weight": 0.0301371628605
+      },
+      {
+        "name": "formigoni",
+        "weight": 0.00844355114533
+      },
+      {
+        "name": "lombardia",
+        "weight": 0.00836491577853
+      },
+      {
+        "name": "pdl",
+        "weight": 0.0073071267138
+      },
+      {
+        "name": "soldi",
+        "weight": 0.00700238604215
+      },
+      {
+        "name": "tosi",
+        "weight": 0.00694715432623
+      },
+      {
+        "name": "belsito",
+        "weight": 0.00562568738754
+      },
+      {
+        "name": "mauro",
+        "weight": 0.00561572082113
+      },
+      {
+        "name": "calderoli",
+        "weight": 0.00475024720171
+      },
+      {
+        "name": "partito",
+        "weight": 0.00448302447386
+      },
+      {
+        "name": "segretario",
+        "weight": 0.00445380490932
+      },
+      {
+        "name": "renzo",
+        "weight": 0.00418526221449
+      },
+      {
+        "name": "elezioni",
+        "weight": 0.00397284548273
+      },
+      {
+        "name": "pulizia",
+        "weight": 0.00369091611461
+      },
+      {
+        "name": "governo",
+        "weight": 0.00343538532988
+      },
+      {
+        "name": "cosentino",
+        "weight": 0.0034236147469
+      },
+      {
+        "name": "pm",
+        "weight": 0.0032039000414
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "culture",
+    "name": "Cultural events",
+    "words": [
+      {
+        "name": "città",
+        "weight": 0.0745764674317
+      },
+      {
+        "name": "oggi",
+        "weight": 0.0621551368017
+      },
+      {
+        "name": "appuntamenti",
+        "weight": 0.0439807379972
+      },
+      {
+        "name": "cultura",
+        "weight": 0.0419176524383
+      },
+      {
+        "name": "gusto",
+        "weight": 0.0372756878799
+      },
+      {
+        "name": "arte",
+        "weight": 0.0284516095623
+      },
+      {
+        "name": "spettacoli",
+        "weight": 0.0265806094021
+      },
+      {
+        "name": "società",
+        "weight": 0.0168918466048
+      },
+      {
+        "name": "spettacolo",
+        "weight": 0.0143353782484
+      },
+      {
+        "name": "musica",
+        "weight": 0.00552095259318
+      },
+      {
+        "name": "cose",
+        "weight": 0.00396794644204
+      },
+      {
+        "name": "accadono",
+        "weight": 0.00390817173347
+      },
+      {
+        "name": "torino",
+        "weight": 0.00330274754107
+      },
+      {
+        "name": "notte",
+        "weight": 0.00311663124725
+      },
+      {
+        "name": "10",
+        "weight": 0.00308010126659
+      },
+      {
+        "name": "giorno",
+        "weight": 0.00291693393827
+      },
+      {
+        "name": "dieci",
+        "weight": 0.00282468866472
+      },
+      {
+        "name": "lunedì",
+        "weight": 0.00268755796875
+      },
+      {
+        "name": "piazza",
+        "weight": 0.00262729689401
+      },
+      {
+        "name": "sciopero",
+        "weight": 0.00253698576208
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "topic": "politics",
+    "name": "Welfare",
+    "words": [
+      {
+        "name": "lavoro",
+        "weight": 0.113372894388
+      },
+      {
+        "name": "riforma",
+        "weight": 0.0296791432697
+      },
+      {
+        "name": "senza",
+        "weight": 0.0239748751981
+      },
+      {
+        "name": "fornero",
+        "weight": 0.0201213697119
+      },
+      {
+        "name": "giovani",
+        "weight": 0.0190036593862
+      },
+      {
+        "name": "governo",
+        "weight": 0.00889583727799
+      },
+      {
+        "name": "18",
+        "weight": 0.00825159042061
+      },
+      {
+        "name": "posti",
+        "weight": 0.00813893417593
+      },
+      {
+        "name": "accordo",
+        "weight": 0.00692494719658
+      },
+      {
+        "name": "sindacati",
+        "weight": 0.00631425041201
+      },
+      {
+        "name": "cgil",
+        "weight": 0.00552222559642
+      },
+      {
+        "name": "camusso",
+        "weight": 0.00529502046163
+      },
+      {
+        "name": "disoccupazione",
+        "weight": 0.00505706012632
+      },
+      {
+        "name": "articolo",
+        "weight": 0.00493507258637
+      },
+      {
+        "name": "napolitano",
+        "weight": 0.00469693038123
+      },
+      {
+        "name": "rischio",
+        "weight": 0.00403631985952
+      },
+      {
+        "name": "meno",
+        "weight": 0.00354002158611
+      },
+      {
+        "name": "piazza",
+        "weight": 0.00328531168657
+      },
+      {
+        "name": "imprese",
+        "weight": 0.00326537294608
+      },
+      {
+        "name": "art",
+        "weight": 0.00315754379504
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "topic": "sport",
+    "name": "Italian football league",
+    "words": [
+      {
+        "name": "napoli",
+        "weight": 0.0348460033143
+      },
+      {
+        "name": "juve",
+        "weight": 0.0202235575077
+      },
+      {
+        "name": "milan",
+        "weight": 0.0168062363503
+      },
+      {
+        "name": "lazio",
+        "weight": 0.0124604952532
+      },
+      {
+        "name": "inter",
+        "weight": 0.0122480732101
+      },
+      {
+        "name": "de",
+        "weight": 0.00975160652821
+      },
+      {
+        "name": "solo",
+        "weight": 0.00936480984643
+      },
+      {
+        "name": "foto",
+        "weight": 0.00787533060219
+      },
+      {
+        "name": "video",
+        "weight": 0.00723864132963
+      },
+      {
+        "name": "ancora",
+        "weight": 0.0064979892849
+      },
+      {
+        "name": "champions",
+        "weight": 0.00507393561026
+      },
+      {
+        "name": "senza",
+        "weight": 0.00499515051257
+      },
+      {
+        "name": "gol",
+        "weight": 0.00444299002658
+      },
+      {
+        "name": "conte",
+        "weight": 0.0041504281668
+      },
+      {
+        "name": "serie",
+        "weight": 0.0041484047416
+      },
+      {
+        "name": "mazzarri",
+        "weight": 0.00404940585478
+      },
+      {
+        "name": "vince",
+        "weight": 0.00400549574346
+      },
+      {
+        "name": "cavani",
+        "weight": 0.00391069781676
+      },
+      {
+        "name": "allegri",
+        "weight": 0.0037341812573
+      },
+      {
+        "name": "sfida",
+        "weight": 0.00367187230762
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "topic": "finance",
+    "name": "Stock exchange trends",
+    "words": [
+      {
+        "name": "borsa",
+        "weight": 0.0950868378896
+      },
+      {
+        "name": "milano",
+        "weight": 0.0797233624954
+      },
+      {
+        "name": "chiude",
+        "weight": 0.0453780574334
+      },
+      {
+        "name": "apre",
+        "weight": 0.026541691062
+      },
+      {
+        "name": "calo",
+        "weight": 0.0260573968074
+      },
+      {
+        "name": "rialzo",
+        "weight": 0.0255545734409
+      },
+      {
+        "name": "europa",
+        "weight": 0.0250312389039
+      },
+      {
+        "name": "madrid",
+        "weight": 0.0130305718951
+      },
+      {
+        "name": "londra",
+        "weight": 0.0106699565343
+      },
+      {
+        "name": "parigi",
+        "weight": 0.0104158221688
+      },
+      {
+        "name": "francoforte",
+        "weight": 0.0102703206594
+      },
+      {
+        "name": "banche",
+        "weight": 0.00935732828157
+      },
+      {
+        "name": "street",
+        "weight": 0.00842498242046
+      },
+      {
+        "name": "wall",
+        "weight": 0.00837188367647
+      },
+      {
+        "name": "tokyo",
+        "weight": 0.00681506494877
+      },
+      {
+        "name": "positiva",
+        "weight": 0.00662440288578
+      },
+      {
+        "name": "mib",
+        "weight": 0.00629315962693
+      },
+      {
+        "name": "ftse",
+        "weight": 0.00589185088331
+      },
+      {
+        "name": "debole",
+        "weight": 0.00491454770725
+      },
+      {
+        "name": "borse",
+        "weight": 0.00434094404115
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "topic": "politics",
+    "name": "Italian elections",
+    "words": [
+      {
+        "name": "pdl",
+        "weight": 0.0475072856115
+      },
+      {
+        "name": "pd",
+        "weight": 0.0448135153285
+      },
+      {
+        "name": "primarie",
+        "weight": 0.0351868393731
+      },
+      {
+        "name": "bersani",
+        "weight": 0.0303682592132
+      },
+      {
+        "name": "berlusconi",
+        "weight": 0.0240032764516
+      },
+      {
+        "name": "renzi",
+        "weight": 0.0164649107564
+      },
+      {
+        "name": "legge",
+        "weight": 0.0103670425292
+      },
+      {
+        "name": "alfano",
+        "weight": 0.00990078434527
+      },
+      {
+        "name": "elettorale",
+        "weight": 0.00924151492518
+      },
+      {
+        "name": "vendola",
+        "weight": 0.00663884001093
+      },
+      {
+        "name": "grillo",
+        "weight": 0.00655715915353
+      },
+      {
+        "name": "voto",
+        "weight": 0.0061722724639
+      },
+      {
+        "name": "casini",
+        "weight": 0.00541609773624
+      },
+      {
+        "name": "udc",
+        "weight": 0.00438185421055
+      },
+      {
+        "name": "sindaco",
+        "weight": 0.00430108450616
+      },
+      {
+        "name": "centrosinistra",
+        "weight": 0.00404382878478
+      },
+      {
+        "name": "sfida",
+        "weight": 0.00392071310528
+      },
+      {
+        "name": "pietro",
+        "weight": 0.00367817006827
+      },
+      {
+        "name": "regione",
+        "weight": 0.00359820671082
+      },
+      {
+        "name": "candidato",
+        "weight": 0.00351439045511
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "topic": "politics",
+    "name": "Tav riots",
+    "words": [
+      {
+        "name": "no",
+        "weight": 0.11716510968
+      },
+      {
+        "name": "tav",
+        "weight": 0.0271690357882
+      },
+      {
+        "name": "dice",
+        "weight": 0.0112802346104
+      },
+      {
+        "name": "governo",
+        "weight": 0.00891718712192
+      },
+      {
+        "name": "sì",
+        "weight": 0.00767320201003
+      },
+      {
+        "name": "piazza",
+        "weight": 0.00627709803043
+      },
+      {
+        "name": "tagli",
+        "weight": 0.00573441540947
+      },
+      {
+        "name": "protesta",
+        "weight": 0.00450884917119
+      },
+      {
+        "name": "corteo",
+        "weight": 0.00394992032393
+      },
+      {
+        "name": "torino",
+        "weight": 0.00333229889327
+      },
+      {
+        "name": "blitz",
+        "weight": 0.00322760988811
+      },
+      {
+        "name": "comune",
+        "weight": 0.0030755629678
+      },
+      {
+        "name": "grazie",
+        "weight": 0.00283126484968
+      },
+      {
+        "name": "napolitano",
+        "weight": 0.00281034189554
+      },
+      {
+        "name": "stop",
+        "weight": 0.00279533977823
+      },
+      {
+        "name": "dire",
+        "weight": 0.00278173343537
+      },
+      {
+        "name": "sindaco",
+        "weight": 0.00265864282901
+      },
+      {
+        "name": "ilva",
+        "weight": 0.00243618271799
+      },
+      {
+        "name": "studenti",
+        "weight": 0.0023519534525
+      },
+      {
+        "name": "polizia",
+        "weight": 0.00231642564421
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "topic": "news",
+    "name": "Crime news",
+    "words": [
+      {
+        "name": "auto",
+        "weight": 0.0620879401287
+      },
+      {
+        "name": "muore",
+        "weight": 0.0291299761519
+      },
+      {
+        "name": "morto",
+        "weight": 0.00942860052309
+      },
+      {
+        "name": "morti",
+        "weight": 0.00942068367637
+      },
+      {
+        "name": "incidente",
+        "weight": 0.00799704149225
+      },
+      {
+        "name": "notte",
+        "weight": 0.00763141709708
+      },
+      {
+        "name": "feriti",
+        "weight": 0.00762835803035
+      },
+      {
+        "name": "scontro",
+        "weight": 0.00710832576933
+      },
+      {
+        "name": "strada",
+        "weight": 0.00637321216988
+      },
+      {
+        "name": "moto",
+        "weight": 0.00579231573842
+      },
+      {
+        "name": "donna",
+        "weight": 0.00527518373934
+      },
+      {
+        "name": "blu",
+        "weight": 0.00475829680551
+      },
+      {
+        "name": "ucciso",
+        "weight": 0.00447064365412
+      },
+      {
+        "name": "arrestato",
+        "weight": 0.00442972673396
+      },
+      {
+        "name": "grave",
+        "weight": 0.00437984174622
+      },
+      {
+        "name": "giorno",
+        "weight": 0.00429767169567
+      },
+      {
+        "name": "uomo",
+        "weight": 0.00377776273059
+      },
+      {
+        "name": "operaio",
+        "weight": 0.00374023160545
+      },
+      {
+        "name": "cade",
+        "weight": 0.0035443049223
+      },
+      {
+        "name": "schianto",
+        "weight": 0.00333069256134
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "topic": "politics",
+    "name": "European chrisis",
+    "words": [
+      {
+        "name": "crisi",
+        "weight": 0.150981256004
+      },
+      {
+        "name": "ue",
+        "weight": 0.0121150302047
+      },
+      {
+        "name": "grecia",
+        "weight": 0.0100918893192
+      },
+      {
+        "name": "spagna",
+        "weight": 0.00765905849495
+      },
+      {
+        "name": "europa",
+        "weight": 0.00756585354127
+      },
+      {
+        "name": "banche",
+        "weight": 0.00692519450991
+      },
+      {
+        "name": "crescita",
+        "weight": 0.00562645534244
+      },
+      {
+        "name": "rischio",
+        "weight": 0.00518106132744
+      },
+      {
+        "name": "merkel",
+        "weight": 0.00513287263184
+      },
+      {
+        "name": "imprese",
+        "weight": 0.0049509432662
+      },
+      {
+        "name": "draghi",
+        "weight": 0.0044135622526
+      },
+      {
+        "name": "anti",
+        "weight": 0.00429317177525
+      },
+      {
+        "name": "tempo",
+        "weight": 0.00428669115397
+      },
+      {
+        "name": "aiuti",
+        "weight": 0.00420627892895
+      },
+      {
+        "name": "ancora",
+        "weight": 0.00407457898697
+      },
+      {
+        "name": "economica",
+        "weight": 0.00404242793348
+      },
+      {
+        "name": "bce",
+        "weight": 0.00372325647867
+      },
+      {
+        "name": "allarme",
+        "weight": 0.00343649674514
+      },
+      {
+        "name": "uscire",
+        "weight": 0.00321521678687
+      },
+      {
+        "name": "famiglie",
+        "weight": 0.0028389847042
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "topic": "politics",
+    "name": "Foreign affairs",
+    "words": [
+      {
+        "name": "ora",
+        "weight": 0.0598357577733
+      },
+      {
+        "name": "usa",
+        "weight": 0.0489496920351
+      },
+      {
+        "name": "obama",
+        "weight": 0.0233185787192
+      },
+      {
+        "name": "2012",
+        "weight": 0.0196426872967
+      },
+      {
+        "name": "romney",
+        "weight": 0.0117781802411
+      },
+      {
+        "name": "elezioni",
+        "weight": 0.0067638392501
+      },
+      {
+        "name": "tasse",
+        "weight": 0.00457345052124
+      },
+      {
+        "name": "siria",
+        "weight": 0.00442681425132
+      },
+      {
+        "name": "europa",
+        "weight": 0.00396794457072
+      },
+      {
+        "name": "crescita",
+        "weight": 0.00381970905376
+      },
+      {
+        "name": "basta",
+        "weight": 0.00367777434289
+      },
+      {
+        "name": "ue",
+        "weight": 0.00319911091033
+      },
+      {
+        "name": "morti",
+        "weight": 0.0031846267272
+      },
+      {
+        "name": "fiscal",
+        "weight": 0.00306260797595
+      },
+      {
+        "name": "cliff",
+        "weight": 0.00299384137695
+      },
+      {
+        "name": "sfida",
+        "weight": 0.00279642421222
+      },
+      {
+        "name": "vince",
+        "weight": 0.00277971635804
+      },
+      {
+        "name": "londra",
+        "weight": 0.00275745553162
+      },
+      {
+        "name": "tocca",
+        "weight": 0.00259455018128
+      },
+      {
+        "name": "guerra",
+        "weight": 0.00232067767027
+      }
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "topic": "finance",
+    "name": "Italian chrisis",
+    "words": [
+      {
+        "name": "spread",
+        "weight": 0.111965581863
+      },
+      {
+        "name": "punti",
+        "weight": 0.0754522364226
+      },
+      {
+        "name": "btp",
+        "weight": 0.072785478539
+      },
+      {
+        "name": "bund",
+        "weight": 0.0458283510432
+      },
+      {
+        "name": "sotto",
+        "weight": 0.0284742372138
+      },
+      {
+        "name": "piazza",
+        "weight": 0.0246747664201
+      },
+      {
+        "name": "borse",
+        "weight": 0.0242095998894
+      },
+      {
+        "name": "chiude",
+        "weight": 0.0179910599744
+      },
+      {
+        "name": "affari",
+        "weight": 0.0134569762975
+      },
+      {
+        "name": "quota",
+        "weight": 0.0129578729114
+      },
+      {
+        "name": "calo",
+        "weight": 0.0118461492516
+      },
+      {
+        "name": "asta",
+        "weight": 0.0103146362156
+      },
+      {
+        "name": "torna",
+        "weight": 0.0101442793119
+      },
+      {
+        "name": "base",
+        "weight": 0.00943316939331
+      },
+      {
+        "name": "rialzo",
+        "weight": 0.00831725531486
+      },
+      {
+        "name": "scende",
+        "weight": 0.00808556861969
+      },
+      {
+        "name": "spagna",
+        "weight": 0.00770219766302
+      },
+      {
+        "name": "sopra",
+        "weight": 0.00697037257452
+      },
+      {
+        "name": "risale",
+        "weight": 0.00618014559342
+      },
+      {
+        "name": "400",
+        "weight": 0.00601786345157
+      }
+    ]
+  }
+]

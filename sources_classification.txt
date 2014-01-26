@@ -1,0 +1,144 @@
+AGENZIE (top10)
+(0, ('ansa.it', 373593))
+(1, ('asca.it', 161818))
+(3, ('adnkronos.com', 149063))
+(14, ('ilvelino.it', 47528))
+(26, ('direttanews.it', 31808))
+(34, ('agi.it', 19384)) (32, ('agi_feedsportal.com', 24116))
+(38, ('italpress.com', 16019))
+(40, ('irispress.it', 13168))
+(47, ('omniroma.it', 9769))
+(48, ('italia-news.it', 9417))
+
+
+
+
+
+
+
+
+TESTATE IN EDICOLA (top 20)
+(2, ('repubblica.it', 156985))
+(7, ('corriere.it', 80962))
+(8, ('iltempo.it', 72793))
+(9, ('ilsole24ore.com', 71792))
+(10, ('padania.org', 62219))
+(11, ('ilgiornale.it', 56094))
+(13, ('panorama.it', 48685))
+(16, ('ilsecoloxix.it', 45819))
+(18, ('ilfattoquotidiano.it', 36681))
+(20, ('lastampa.it', 36178))
+(21, ('lagazzettadelmezzogiorno.it', 35008))
+(22, ('unionesarda.it', 34848))
+(23, ('ilmessaggero.it', 34037))
+(24, ('ilgiorno.it', 33017))
+(28, ('leggo.it', 28855))
+(29, ('ilmattino.it', 28306))
+(30, ('unita.it', 27019))
+(41, ('ilmanifesto.it', 12937))
+SPORT
+(35, ('gazzetta.it', 19275))
+(37, ('TuttoSport_feedsportal.com', 17644)) (43, ('tuttosport.com', 11950))
+
+(42, ('corrieredellosport.it', 12474)) (31, ('corrieredellosport_feedsportal.com', 25075))
+
+
+
+
+
+
+
+PORTALI WEB (top 10)
+(4, ('rai.it', 122634))
+(5, ('virgilio.it', 95210))
+(6, ('mediaset.it', 89781))
+(12, ('libero.it', 52909)) (44, ('libero-news.it', 11671))
+(15, ('tiscali.it', 46390))
+(17, ('newnotizie.it', 38254))
+(19, ('sky.it', 36432))
+(25, ('quotidiano.net', 32937))
+(27, ('voceditalia.it', 30239))
+(39, ('la7.it', 16010))
+
+
+
+
+
+
+ESCLUSI
+
+(33, ('google.com', 21292))
+
+(36, ('it_feedsportal.com', 18442))
+
+(45, ('smtvsanmarino.sm', 11157))
+
+
+
+
+
+
+
+
+(46, ('rss_feedsportal.com', 10465))
+(
+(49, ('cronacaqui.it', 9096))
+(50, ('rainews24.it', 8981))
+(51, ('americaoggi.info', 8933))
+(52, ('lagazzettadelmezzogiorno_feedsportal.com', 8230))
+(53, ('radiovaticana.org', 8077))
+(54, ('euronews.net', 7671))
+(55, ('affaritaliani.it', 7655))
+(56, ('yahoo.com', 7302))
+(57, ('famigliacristiana.it', 6821))
+(58, ('ubitennis.com', 6549))
+(59, ('corriereinformazione.it', 6514))
+(60, ('rassegna.it', 6405))
+(61, ('dire.it', 6300))
+(62, ('milanofinanza.it', 6276))
+(63, ('omnimilano.it', 6052))
+(64, ('avvenire.it', 5497))
+(65, ('apcom.net', 5339))
+(66, ('tuttosport_feedsportal.com', 5167))
+(67, ('sanmarinortv.sm', 4827))
+(68, ('liberoquotidiano.it', 4026))
+(69, ('radiovaticana.va', 4009))
+(70, ('TMNEWS.it', 3927))
+(71, ('agopress.info', 3432))
+(72, ('cnrmedia.com', 2571))
+(73, ('panorama-auto.it', 2145))
+(74, ('newslinet.it', 1710))
+(75, ('ilriformista.it', 1423))
+(76, ('mediaset.ithttp:', 1109))
+(77, ('italpress.net', 1026))
+(78, ('101.201:7161', 911))
+(79, ('agvnews.it', 602))
+(80, ('163.30', 509))
+(81, ('da_feedsportal.com', 476))
+(82, ('agenziami.it', 430))
+(83, ('rai.tv', 344))
+(84, ('lastampa_feedsportal.com', 292))
+(85, ('corriere.ithttp:', 257))
+(86, ('corriere.itjavascript:galleriaVN("Milano","2012', 86))
+(87, ('ilgiornaledellusso.it', 59))
+(88, ('corriere.itjavascript:galleriaVN("Milano","2011', 51))
+(89, ('corriere.itjavascript:galleriaVN("Milano","2013', 47))
+(90, ('sportmediaset.it', 45))
+(91, ('corriere.itjavascript:galleriaVN("Roma","2011', 34))
+(92, ('lintraprendente.it', 18))
+(93, ('corriere.itjavascript:galleriaVN("Roma","2012', 16))
+(94, ('vitv.it', 12))
+(95, ('corriere.itjavascript:galleriaVN("Milano","2010', 10))
+(96, ('lastampa.it:80', 10))
+(97, ('corriere.itjavascript:galleriaVN("Roma","2010', 5))
+(98, ('tgcom.it', 5))
+(99, ('corriere.itjavascript:galleriaVN("Roma","2013', 4))
+(100, ('lastampa.ith', 1))
+(101, ('mourinho_e_ronaldo_coppia_ci_hanno_derubato_ma_dicono_mano', 1))
+(102, ('Susanna%20Camusso.jpg', 1))
+(103, ('iodonna.it', 1))
+(104, ('uhttp:', 1))
+(105, ('whttp:', 1))
+(106, ('itIl%207%20volte%20campione%20del%20mondo%20vuole%20tornare%20al%20top%20con%20la%20Mercedes.%20Il%2018%20marzo%20il%20primo%20appuntamento%20in%20Australia:%20\xabStiamo%20lavorando%20a%20tutto%20gas\xbb', 1))
+(107, ('bookrepublic.it', 1))
+(108, ('urlhttp', 1))

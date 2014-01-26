@@ -1,0 +1,248 @@
+/** General style**/
+
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('BebasNeue-webfont.eot');
+    src: url('BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BebasNeue-webfont.woff') format('woff'),
+         url('BebasNeue-webfont.ttf') format('truetype'),
+         url('BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.topic-1 text, .topic-1 rect, path.topic-1{
+    /*color: '#940A30';*/
+    stroke: #940A30;
+    fill: #940A30;
+}
+
+.topic-4 text, .topic-4 rect, path.topic-4{
+    /*color: #C63A3B;*/
+    stroke: #C63A3B;
+    fill: #C63A3B;
+}
+
+.topic-6 text, .topic-6 rect, path.topic-6{
+    /*color: #F44D4D;*/
+    stroke: #F44D4D;
+    fill: #F44D4D;
+}
+
+.topic-7 text, .topic-7 rect, path.topic-7{
+    /*color: #FF3333;*/
+    stroke: #FF3333;
+    fill: #FF3333;
+}
+
+.topic-8 text, .topic-8 rect, path.topic-8{
+    /*color: #F37035;*/
+    stroke: #F37035;
+    fill: #F37035;
+}
+
+.topic-12 text, .topic-12 rect, path.topic-12{
+    /*color: #F9B513;*/
+    stroke: #F9B513;
+    fill: #F9B513;
+}
+
+.topic-13 text, .topic-13 rect, path.topic-13{
+    /*color: #99C651;*/
+    stroke: #99C651;
+    fill: #99C651;
+}
+
+.topic-14 text, .topic-14 rect, path.topic-14{
+    /*color: #639670;*/
+    stroke: #639670;
+    fill: #639670;
+}
+
+.topic-15 text, .topic-15 rect, path.topic-15{
+    /*color: #277E70;*/
+    stroke: #277E70;
+    fill: #277E70;
+}
+
+.topic-16 text, .topic-16 rect, path.topic-16{
+    /*color: #163F46;*/
+    stroke: #163F46;
+    fill: #163F46;
+}
+
+.topic-17 text, .topic-17 rect, path.topic-17{
+    /*color: #1D5F73;*/
+    stroke: #1D5F73;
+    fill: #1D5F73;
+}
+
+.topic-18 text, .topic-18 rect, path.topic-18{
+    /*color: #00988E;*/
+    stroke: #00988E;
+    fill: #00988E;
+}
+
+.topic-19 text, .topic-19 rect, path.topic-19{
+    /*color: #1AB7AC;*/
+    stroke: #1AB7AC;
+    fill: #1AB7AC;
+}
+
+body {
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+body, #force .node text{
+	background-color: #EDEAD7;
+ 	font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px
+}
+
+body, #force .node.source text{
+    background-color: #EDEAD7;
+    font-family: BebasNeueRegular, Helvetica, Arial, sans-serif;
+    font-size: 15px
+}
+
+h1,h2,h3,h4{
+    margin: 0px;
+
+}
+
+h1{
+    height: 60px;
+    text-align: center;
+    color:#333333;
+}
+
+h2{
+    text-align: left;
+    color:#333333;
+
+}
+
+h3{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color:#FF3333;
+    text-align: left;
+}
+
+h4{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color:#988F92;
+    text-align: left;
+}
+
+h5{
+    font-family: BebasNeueRegular, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color:#808080;
+    text-align: left;
+}
+
+h6{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color:#988F92;
+    text-align: left;
+}
+
+/**
+.cluster_group:hover{
+    fill: ;
+}**/
+/** Layout**/
+
+#container{
+    width: 1016px;
+    margin: 0 auto;
+}
+
+
+#firstcol,#seconcol{
+    height: 500px;
+    float: left;
+}
+
+#firstcol{
+    width: 350px;
+}
+
+.coltitle{
+    height: 60px;
+}
+
+svg#cluster{
+    height: 400px; /*400px;*/
+    width: 350px;
+}
+
+/*#cluster g .word-cloud{
+     fill-opacity:0;
+}*/
+
+#cluster g rect{
+    fill-opacity: 0;
+}
+
+/*#cluster g.word-cloud text{
+    fill-opacity: 0;
+}*/
+
+#cluster rect, #cluster text{
+    stroke-width: 0px;
+}
+
+#cluster .hoverClus rect{
+    fill-opacity: 1;
+}
+
+#cluster .word-cloud text{
+    opacity: 0;
+}
+
+#cluster .hoverClus text{
+    fill: white;
+    opacity: 1;
+}
+
+#seconcol{
+    width: 660px;
+}
+
+svg#force{
+    height: 100%;
+    width: 100%;
+}
+
+#timespace{
+    height: 124px;
+    clear: both;
+}
+
+#timespace .coltitle{
+    width: 170px;
+    float: left;
+}
+
+svg#timeline{
+    height: 95%;
+    width: 843px; /*1024 - 180*/
+}
+
+#footer{
+    height: 60px;
+    clear: both;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.pointer-default{
+    cursor: default;
+}

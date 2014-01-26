@@ -1,0 +1,21 @@
+.xAxis line{
+    stroke: #888;
+    stroke-width: 2px;
+}
+.xAxis text{
+    fill: #888;
+}
+
+#timeline .timePath{
+    fill-opacity: 0;
+    stroke-width: 2px;
+}
+
+#timeline .timePath.selected{
+    fill-opacity: 0.9;
+}
+
+#timeline .timePath.unselected{
+    fill-opacity: 0.05;
+    stroke-opacity: 0;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>(BD)2</title>
+        <link type="text/css" rel="stylesheet" href="css/bd2.css">
+        <link type="text/css" rel="stylesheet" href="css/force.css">
+        <link type="text/css" rel="stylesheet" href="css/timeline.css">
+    </head>
+    <body>
+        <div id='container'>
+            <h1><img src="img/logo_BD2.png" height="45"/><br>Big Data Bias Detection</h1>
+                <div id="firstcol">
+                <div class='coltitle'>
+                    <h2>MAIN WORD CLUSTERS</h2>
+                    <h3>click a topic</h3>
+                    <h4>to visualise words and the diagram forces for each cluster</h4>
+                                    </div>
+                <svg id='cluster'></svg>
+            </div>
+            <div id="seconcol">
+                <svg id='force'></svg>
+            </div>
+            <!--<div id="thirdcol">
+                <div class='coltitle'>
+                    <h2>aim</h2>
+                    <h3>© RAI</h3>
+                </div>
+            </div>-->
+            <div id="timespace">
+                <div class='coltitle'>
+                    <h2>NEWS ALONG TIME</h2>
+                </div>
+                <svg id='timeline'></svg>
+            </div>
+            <div id="footer">                
+                <img src="img/footer2.png" width="1016"/>
+            </div>
+
+
+        </div>
+    </body>
+    <script src="js/d3.v3.min.js" type="text/javascript"></script>
+    <script src="js/d3-grid.js" type="text/javascript"></script>
+    <script src="js/viz.js" type="text/javascript"></script>
+    <script src="js/cluster.js" type="text/javascript"></script>
+    <script src="js/timeline.js" type="text/javascript"></script>
+    <script src="js/force.js" type="text/javascript"></script>
+    <script src="js/d3.layout.cloud.js" type="text/javascript"></script>
+</html>
+

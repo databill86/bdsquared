@@ -1,0 +1,43 @@
+/*applies to every link*/
+#force line.link {
+    stroke: #988F92;
+}
+
+/*applies to every single circle node*/
+#force .node circle{
+    
+}
+
+/*applies to every node that is a word*/
+#force .node.word circle{
+	size: 10px;
+    fill: #FFFFFF;
+}
+
+/*applies to every node that is a source*/
+#force .node.source circle{
+	stroke: #C1BCBE;
+    stroke-width: 6;
+	fill: #EDEAD7;
+    /*fill: green;*/
+}
+
+#force .node text{
+	background-color: #EDEAD7;	
+ 	font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+#force .node.source text{
+    background-color: #EDEAD7;  
+    font-family: BebasNeueRegular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+/*applies to every label of the node that is a source*/
+#force .node text{
+    text-anchor: middle;
+}
+

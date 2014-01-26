@@ -1,4 +1,4 @@
 bdsquared
 =========
 
-Repository of the bdsquared project from BigDive
+bd squared group working on RAI dataset
